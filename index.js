@@ -1,7 +1,7 @@
    let ListOfNames = [
-    { 'name': 'john', 'lastName': 'ojasanya', 'joinedYear': '2026', 'level': 200, 'Gender': 'F', 'image': 'https://thumbs.dreamstime.com/b/portrait-young-african-american-business-woman-black-peop-isolated-white-background-people-33803836.jpg',  },
+    { 'name': 'sarah', 'lastName': 'kun', 'joinedYear': '2026', 'level': 200, 'Gender': 'F', 'image': 'https://thumbs.dreamstime.com/b/portrait-young-african-american-business-woman-black-peop-isolated-white-background-people-33803836.jpg',  },
     { 'name': 'ceej', 'lastName': 'hen', 'joinedYear': '2025', 'level': 300, 'Gender': 'M', 'image': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS06v8Z81RM4xhSEEjJ1ROXNVAnmpPFjwTiInJGy8BD4w&s=10'},
-    { 'name': 'jay', 'lastName': 'john', 'joinedYear': '2022', 'level': 400, 'Gender': 'F', 'image': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS78pDXzx0ojE93zEeBfoM-3bfY7tfWiF4YNN8LR5yvWg&s=10' },
+    { 'name': 'stella', 'lastName': 'bail', 'joinedYear': '2022', 'level': 400, 'Gender': 'F', 'image': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS78pDXzx0ojE93zEeBfoM-3bfY7tfWiF4YNN8LR5yvWg&s=10' },
     { 'name': 'ceejjay', 'lastName': 'max', 'joinedYear': '2023', 'level': 100, 'Gender': 'M', 'image': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOM2Xwn0dHJpVXG3jI2cRJ2dkQYgsH4Nxc28DFzBoRqQ&s=10' }
 ]
 
