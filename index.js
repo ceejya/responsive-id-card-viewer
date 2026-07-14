@@ -18,7 +18,7 @@
     display()
   
   
-~
+
     function nextButton() {
         
 
@@ -27,7 +27,7 @@
             image01.src = ListOfNames[index]
             
         } else {
-            image01.src =` ${ListOfNames[++index]} `
+            image01.src = ListOfNames[++index]
         
         }
 
@@ -39,10 +39,10 @@
     function previousButton() {
         if (index === 0) { 
             index = ListOfNames.length -1
-            image01.src = images[index]
+            image01.src = ListOfNames[index]
             
         } else {
-            image01.src = images[--index]       
+            image01.src = ListOfNames[--index]      
         }
          display()
        
